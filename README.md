@@ -4,8 +4,8 @@
 
 # What the Elevator Would Say
 
-A make.fun entry for the [What the Elevator Would Say](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958) bounty: the funniest one line a talking elevator could say, in the elevator's own voice — impatient with the button-masher, and done pretending otherwise.
+A make.fun entry for the [What the Elevator Would Say](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958) bounty: the funniest one line a talking elevator could say, in the elevator's own voice — it watches you sprint, closes the doors anyway, and refuses the friendship.
 
-> You pressed the button twice. I heard you the first time. I'm an elevator, not your ex.
+> I watched you sprint down the hall and closed the doors anyway. We're not friends. I'm a box with buttons.
 
 Run it: `python3 main.py`
