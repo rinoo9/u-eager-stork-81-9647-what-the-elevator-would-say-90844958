@@ -3,9 +3,13 @@
 
 Writes one line, the funniest thing a talking elevator could say, to
 /output/entry.txt. Deterministic: no input, no randomness, no network.
+
+Round 2 angle: the elevator as a cold, loyal-to-no-one box — it watches
+you sprint, closes the doors anyway, and refuses the friendship.
+Fresh vs round 1 (the button-masher / ex line): doors + running, not buttons.
 """
 
-LINE = "You pressed the button twice. I heard you the first time. I'm an elevator, not your ex."
+LINE = "I watched you sprint down the hall and closed the doors anyway. We're not friends. I'm a box with buttons."
 
 
 def main() -> None:
